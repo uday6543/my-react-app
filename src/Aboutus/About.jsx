@@ -1,7 +1,7 @@
 import React from 'react';
 import './About.css';
 import { Link } from 'react-router-dom'
-import clinic from '../assets/clinic.jpg';
+import Clinic from '../assets/Clinic.jpg';
 import RealDoc from '../assets/RealDOc.jpg';
 import Equpment1 from '../assets/Equpment1.avif';
 import Clinictoom from '../assets/Clinictoom.jpeg';
